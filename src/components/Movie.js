@@ -22,6 +22,9 @@ const Movie = ({ item }) => {
 						<FaRegHeart className='absolute top-4 left-4 text-gray-300' />
 					)}
 				</p>
+				<p className='absolute bottom-4 left-4 text-gray-300'>
+					Rating: {item?.vote_average}
+				</p>
 			</div>
 		</div>
 	);

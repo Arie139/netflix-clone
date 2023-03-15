@@ -6,11 +6,11 @@ A full-stack Netflix Clone application using React and Tailwind Css on the front
 
 ![screenshot of App](https://github.com/Arie139/netflix-clone-app/blob/main/src/docs/Netflix_homepage.png)
 
-### Netflix-Clone Sign UP Page
+### Netflix-Clone Sign Up Page
 
 ![screenshot of App](https://github.com/Arie139/netflix-clone-app/blob/main/src/docs/Netflix_signup.png)
 
-### Netflix-Clone Login
+### Netflix-Clone Sign In Page
 
 ![screenshot of App](https://github.com/Arie139/netflix-clone-app/blob/main/src/docs/Netflix_login.png)
 
@@ -34,7 +34,7 @@ A full-stack Netflix Clone application using React and Tailwind Css on the front
 - `Firebase`
 - `Tailwind Css`
 - `Axios`
-- `React Icons`
+- `React-Icons`
 
 ## Setup
 

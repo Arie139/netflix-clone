@@ -1,70 +1,41 @@
-# Getting Started with Create React App
+# Netflix-Clone Application
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A full-stack Netflix Clone application using React and Tailwind Css on the front end and Firebase and Themoviedb API for the backend technology.
 
-## Available Scripts
+### Netflix-Clone Home Page
 
-In the project directory, you can run:
+![screenshot of App](https://github.com/Arie139/netflix-clone-app/blob/main/src/docs/Netflix_homepage.png)
 
-### `npm start`
+### Netflix-Clone Sign UP Page
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+![screenshot of App](https://github.com/Arie139/netflix-clone-app/blob/main/src/docs/Netflix_signup.png)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+### Netflix-Clone Login
 
-### `npm test`
+![screenshot of App](https://github.com/Arie139/netflix-clone-app/blob/main/src/docs/Netflix_login.png)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### Netflix-Clone My Shows
 
-### `npm run build`
+![screenshot of App](https://github.com/Arie139/netflix-clone-app/blob/main/src/docs/Netflix_my_shows.png)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## API
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- `themoviedb.org`
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Stack
 
-### `npm run eject`
+- `ReactJS`
+- `Javascript`
+- `Tailwind Css`
+- `Firebase`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## Npm Packages
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+- `Firebase`
+- `Tailwind Css`
+- `Axios`
+- `React Icons`
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## Setup
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+- Install dependencies with `npm install`.

@@ -1,6 +1,6 @@
 # Netflix-Clone Application
 
-A full-stack Netflix Clone application using React and Tailwind Css on the front end and Firebase and Themoviedb API for the backend technology.
+A full-stack Netflix Clone application with the ability to create custom My Show list.
 
 ### Netflix-Clone Home Page
 
@@ -18,16 +18,16 @@ A full-stack Netflix Clone application using React and Tailwind Css on the front
 
 ![screenshot of App](https://github.com/Arie139/netflix-clone-app/blob/main/src/docs/Netflix_my_shows.png)
 
-## API
-
-- `themoviedb.org`
 
 ## Stack
 
-- `ReactJS`
-- `Javascript`
-- `Tailwind Css`
-- `Firebase`
+- Front-end: `HTML, Tailwind CSS and React`
+- Back-end: `NodeJS and ExpressJS`
+- Database: `Firebase`
+
+## API
+
+- `themoviedb.org`
 
 ## Npm Packages
 
